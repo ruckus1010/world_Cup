@@ -7,12 +7,12 @@
 | Field | Value |
 |---|---|
 | Starting bankroll | 100.00u |
-| Current bankroll | 100.00u |
-| Net P/L | +0.00u |
-| ROI | 0.00% |
-| Open exposure | 2.50u |
-| Record (W-L-P) | 0-0-0 |
-| Rolling CLV | n/a |
+| Current bankroll | 102.58u |
+| Net P/L | +2.58u |
+| ROI | +2.58% (on bankroll); +73.71% (on settled stakes) |
+| Open exposure | 1.00u |
+| Record (W-L-P) | 1-1-0 |
+| Rolling CLV | TBD (closing lines pending) |
 | Last updated | 2026-06-24 |
 
 ## Sizing Tiers
@@ -30,4 +30,4 @@
 
 | Date | Starting | Day P/L | Ending | Note |
 |---|---|---|---|---|
-| 2026-06-24 | 100.00u | — | 100.00u | System initialized; 2.50u open exposure on BIH–QAT Bosnia goals thesis |
+| 2026-06-24 | 100.00u | +2.58u (in progress) | 102.58u | BIH–QAT settled 3-1: TT O2.5 +154 WIN (+3.08u), -2.5 +285 LOSS (-0.50u). Vinicius anytime +110 (1u) open. |
