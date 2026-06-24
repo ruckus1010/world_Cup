@@ -7,11 +7,11 @@
 | Field | Value |
 |---|---|
 | Starting bankroll | 100.00u |
-| Current bankroll | 102.58u |
-| Net P/L | +2.58u |
-| ROI | +2.58% (on bankroll); +73.71% (on settled stakes) |
-| Open exposure | 1.00u |
-| Record (W-L-P) | 1-1-0 |
+| Current bankroll | 103.68u |
+| Net P/L | +3.68u |
+| ROI | +3.68% (on bankroll); +105.14% (on settled stakes) |
+| Open exposure | 0.00u |
+| Record (W-L-P) | 2-1-0 |
 | Rolling CLV | TBD (closing lines pending) |
 | Last updated | 2026-06-24 |
 
@@ -30,4 +30,4 @@
 
 | Date | Starting | Day P/L | Ending | Note |
 |---|---|---|---|---|
-| 2026-06-24 | 100.00u | +2.58u (in progress) | 102.58u | BIH–QAT settled 3-1: TT O2.5 +154 WIN (+3.08u), -2.5 +285 LOSS (-0.50u). Vinicius anytime +110 (1u) open. |
+| 2026-06-24 | 100.00u | +3.68u (in progress) | 103.68u | Day 1 group-stage closers: Bosnia TT O2.5 +154 WIN (+3.08u), Bosnia -2.5 +285 LOSS (-0.50u), Vinicius anytime +110 WIN (+1.10u). 2-1-0. |
