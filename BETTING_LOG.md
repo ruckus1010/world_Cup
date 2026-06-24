@@ -14,7 +14,7 @@
 
 | ID | Date | Match | Market | Selection | Odds | Fair % | Edge | Stake | Tier | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — | — | — | — | No open bets |
+| 004 | 2026-06-24 | MAR–HTI | PROMO/PROP | Brahim Díaz anytime scorer (LIVE @ HT, score 2-2) | +324 (+270 base × 20% profit boost) | ~28–34% | ~+8 to +14% with boost | 0.50u | Standard (promo-converted) | Live bet at halftime. Pre-match thesis broken (Haiti scored 2) but trequartista creator role intact; Morocco chases seeding in open game. Boost converted thin edge to real edge. |
 
 ## Settled Bets
 
@@ -28,10 +28,11 @@
 
 | Metric | Value |
 |---|---|
-| Total bets placed | 3 |
-| Win / Loss / Push | 2 / 1 / 0 |
-| Units staked | 3.50u |
-| Units returned | 6.68u |
-| Net P/L | +3.68u |
-| ROI | +105.14% (on settled stakes) |
+| Total bets placed | 4 |
+| Win / Loss / Push (settled) | 2 / 1 / 0 |
+| Units staked (all) | 4.00u |
+| Units returned (settled) | 5.08u |
+| Net P/L (settled) | +2.58u + (1.10) = +3.68u |
+| ROI on settled stakes | +105.14% |
+| Open exposure | 0.50u |
 | Bets beating close (CLV+) | TBD / 3 |
