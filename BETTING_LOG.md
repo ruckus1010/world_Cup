@@ -14,7 +14,8 @@
 
 | ID | Date | Match | Market | Selection | Odds | Fair % | Edge | Stake | Tier | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — | — | — | — | No open bets yet |
+| 001 | 2026-06-24 | BIH–QAT | TOTAL | Bosnia Team Total Over 2.5 | +154 | ~48–53% | +18–25% EV | 2.00u | Strong | Devig fair ~40%; Bosnia chasing GD for best-third lottery, Qatar broken after 0-6. Got +6 cents better than quoted +148. |
+| 002 | 2026-06-24 | BIH–QAT | TOTAL | Bosnia −2.5 (win by 3+) | +285 | ~38–43% | +45–65% EV | 0.50u | Upside dart | Correlated with bet 001 — same blowout thesis, bigger payout. Sized small to acknowledge correlation. |
 
 ## Settled Bets
 
@@ -26,9 +27,9 @@
 
 | Metric | Value |
 |---|---|
-| Total bets placed | 0 |
+| Total bets placed | 2 |
 | Win / Loss / Push | 0 / 0 / 0 |
-| Units staked | 0.00u |
+| Units staked | 2.50u |
 | Units returned | 0.00u |
 | Net P/L | +0.00u |
 | ROI | 0.00% |
