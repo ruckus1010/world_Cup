@@ -10,7 +10,7 @@
 | Current bankroll | 100.00u |
 | Net P/L | +0.00u |
 | ROI | 0.00% |
-| Open exposure | 0.00u |
+| Open exposure | 2.50u |
 | Record (W-L-P) | 0-0-0 |
 | Rolling CLV | n/a |
 | Last updated | 2026-06-24 |
@@ -30,4 +30,4 @@
 
 | Date | Starting | Day P/L | Ending | Note |
 |---|---|---|---|---|
-| 2026-06-24 | 100.00u | — | 100.00u | System initialized |
+| 2026-06-24 | 100.00u | — | 100.00u | System initialized; 2.50u open exposure on BIH–QAT Bosnia goals thesis |
