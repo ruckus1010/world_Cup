@@ -7,12 +7,12 @@
 | Field | Value |
 |---|---|
 | Starting bankroll | 100.00u |
-| Current bankroll | 103.68u |
-| Net P/L | +3.68u |
-| ROI | +3.68% (on bankroll); +105.14% (on settled stakes) |
-| Open exposure | 0.50u |
-| Record (W-L-P) | 2-1-0 |
-| Rolling CLV | TBD (closing lines pending) |
+| Current bankroll | 103.18u |
+| Net P/L | +3.18u |
+| ROI | +3.18% (on bankroll); +79.50% (on settled stakes) |
+| Open exposure | 0.00u |
+| Record (W-L-P) | 2-2-0 |
+| Rolling CLV | TBD (closing lines not captured — fix for next slate) |
 | Last updated | 2026-06-24 |
 
 ## Sizing Tiers
@@ -30,4 +30,4 @@
 
 | Date | Starting | Day P/L | Ending | Note |
 |---|---|---|---|---|
-| 2026-06-24 | 100.00u | +3.68u (3 settled, 1 open) | 103.68u | Day 1 group-stage closers. Settled: Bosnia TT O2.5 +154 WIN (+3.08u), Bosnia -2.5 +285 LOSS (-0.50u), Vinicius anytime +110 WIN (+1.10u). Open: Brahim Diaz anytime live +324 boosted (0.5u). 4.00u total daily stake of 10u cap. |
+| 2026-06-24 | 100.00u | +3.18u | 103.18u | Day 1 group-stage closers, 4 bets, 2-2-0. WIN: Bosnia TT O2.5 +154 (+3.08u), Vinicius anytime +110 (+1.10u). LOSS: Bosnia -2.5 +285 (-0.50u), Brahim Díaz anytime live +324 boosted (-0.50u). 4.00u of 10u daily cap used. CZE–MEX and RSA–KOR unbet. |
