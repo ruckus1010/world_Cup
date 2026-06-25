@@ -14,7 +14,12 @@
 
 | ID | Date | Match | Market | Selection | Odds | Fair % | Edge | Stake | Tier | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — | — | — | — | No open bets |
+| 005 | 2026-06-25 | JPN–SWE | PROMO/PROP | Alexander Isak 2+ shots on target | +282 (base +225 × 25% boost) | ~31–36% | +0.26 EV/u | 1.00u | Standard | 25% player-SOT boost. Sweden must-win → chase → Isak shot volume. User confident on Isak start. Breakeven +282 = 26.2%, fair well above. |
+| 006 | 2026-06-25 | JPN–SWE | TOTAL | Sweden team total Over 1.5 (away O/U 1.5) | +230 | ~35–47% | +EV | 1.00u | Standard | Got +230 vs planned +202 — better price (entry CLV win). Sweden must score 2+ to advance, cannot rotate. |
+| 007 | 2026-06-25 | PAR–AUS | TOTAL | Match Total Over 2.5 | +286 (base +220 × 30% boost) | ~36–44% | +0.29 EV/u | 0.50u | Standard | 30% any-wager boost. Play-in: both chase, esp. Paraguay (must win, GD -2 vs AUS 0). |
+| 008 | 2026-06-25 | PAR–AUS | ML + PROMO | Paraguay moneyline (Drawbreaker) | +165 | ~36% | +EV via refund | 1.00u | Standard | Drawbreaker: refunds up to 1.25u bonus bet if match draws. Paraguay must win; high draw equity (~42%) makes refund live. |
+| 009 | 2026-06-25 | PAR–AUS | TOTAL | Paraguay team total Over 1.5 (home O/U 1.5) | +255 | ~34–45% | +EV | 1.00u | Standard | Got +255 vs planned +202 — better price (entry CLV win). Paraguay must win/chase, cannot rotate. |
+| 010 | 2026-06-25 | PAR–AUS | SGP/PROMO | 3-leg SGP: Match O2.5 + BTTS Yes + Enciso anytime | +910 (base +700 × 30% boost) | ~10–11.5% | ~0 to +0.08 EV/u | 0.50u | Fun dart | 30% SGP boost. Marginal-EV lottery, sized down to 0.5u. Boost gets to ~breakeven; correlated legs all ride PAR-AUS opening up. User confident on Enciso start. |
 
 ## Settled Bets
 
@@ -29,18 +34,27 @@
 
 | Metric | Value |
 |---|---|
-| Total bets placed | 4 |
+| Total bets placed | 10 |
 | Win / Loss / Push (settled) | 2 / 2 / 0 |
-| Units staked | 4.00u |
-| Units returned | 7.18u |
-| Net P/L | +3.18u |
-| ROI on stakes | +79.50% |
-| Bets beating close (CLV+) | TBD / 3 (one was live, no close benchmark) |
+| Open bets | 6 (Day 2: bets 005–010) |
+| Units staked (settled) | 4.00u |
+| Units returned (settled) | 7.18u |
+| Net P/L (settled) | +3.18u |
+| Open exposure | 5.00u |
+| ROI on settled stakes | +79.50% |
+| Bets beating close (CLV+) | TBD / 3 |
 
-## Process Notes (Day 1)
+## Process Notes
 
-- **CLV capture: failed.** Three of three pre-match bets have permanent TBD in the Close/CLV columns. This is lost data and the most important fix for future slates. Hard rule going forward: screenshot bet slip when placing + capture DK closing price ≤5 min before kickoff (ideally also Pinnacle/Circa).
-- **Move faster on lineup-driven plays.** Vinicius anytime moved from quoted +125 to taken +110 in the window between team news and bet — 15 cents of edge lost to slow execution.
-- **Promo conversion was clean.** 20% profit boost deployed on the longest-odds +EV candidate (Brahim Díaz, +270 → +324 effective), which is the correct way to use a profit boost. Boost did NOT cause a marginal bet to be added — it was applied to a bet already on the short list.
-- **Discipline on broken thesis: good.** Dropped Hakimi assist when price moved +320 → +195, dropped El Kaabi when price moved +105 → -110, declined to bet CZE–MEX without lineups.
-- **+3.18u net is variance noise on a 4-bet sample.** Real evaluation comes from CLV (currently missing) and process quality (see grades above), not short-run W/L.
+### Day 1 (2026-06-24)
+- **CLV capture: failed.** Three of three pre-match bets have permanent TBD. Hard rule going forward: capture entry price + closing price.
+- **Move faster on lineup-driven plays.** Vinicius +125 → +110 = 15 cents lost.
+- **Promo conversion clean.** Boost on longest-odds +EV play. Boost the bet, don't bet the boost.
+
+### Day 2 (2026-06-25)
+- **Entry prices captured via bet-slip screenshots** — improvement on Day 1. Two team totals came in better than planned (Paraguay TT +255 vs +202, Sweden TT +230 vs +202), small entry-CLV win. Closing-line capture still pending (user out during kickoffs).
+- **Bet blind on lineups by necessity** (user unavailable at kickoff). Filtered to team-level desperation theses (must-win teams can't rotate) + two player props (Isak, Enciso) user was confident would start. Correctly DECLINED 3pm games (muted desperation, efficient pricing, rotation-dependent edges unverifiable).
+- **3pm-skip validated post-hoc:** Nagelsmann confirmed Germany would NOT rotate vs Ecuador (only forced changes: Rüdiger for injured Schlotterbeck, Raum for Nene Brown). The German-rotation-striker edge (Undav/Woltemade anytime) we declined to bet blind did not exist — Undav not starting. Discipline call validated.
+- **Promo discipline:** deployed 4 of 5 promos (25% SOT, 30% any-wager, Drawbreaker, 30% SGP). Let the 20% SGP (+400) expire — no qualifying play. Did NOT force unused promos onto bad bets.
+- **Correlation acknowledged:** bets 007–010 all PAR–AUS (3.0u on "Paraguay chases open game"); bets 005–006 both JPN–SWE Sweden-chase (2.0u). Two themes, each expressed multiple ways. A flat game takes down a cluster.
+- **SGP (bet 010) flagged honestly as marginal-EV lottery**, not a clear edge — sized to 0.5u for that reason.
