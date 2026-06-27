@@ -7,13 +7,12 @@
 | Field | Value |
 |---|---|
 | Starting bankroll | 100.00u |
-| Current bankroll | 102.00u |
-| Net P/L (settled cash) | +2.00u |
-| ROI | +2.00% (on bankroll); +22.2% (on 9.0u settled stakes) |
-| Open cash exposure | 2.60u (Day 3: bets 011–015) |
-| Bonus bet deployed | 1.0u on Oyarzabal (bet 016) |
-| Outstanding bonus bets | 0 |
-| Record (W-L-P) | 3-7-0 (settled) |
+| Current bankroll | 102.31u |
+| Net P/L (cash) | +2.31u |
+| ROI | +2.31% (on bankroll); +20.0% (on 11.6u staked) |
+| Open exposure | 0.00u |
+| Outstanding free bets | 0.10u (~0.07u EV) |
+| Record (W-L-P) | 5-11-0 |
 | Rolling CLV | −2.16% avg (2 measurable bets); beat close 1 of 2 |
 | Last updated | 2026-06-26 |
 
@@ -27,26 +26,15 @@
 
 - Hard cap: 3u on any single outcome. Hard cap: 10u total exposure per day.
 
-## Open Exposure Detail (Day 3, 2026-06-26)
-
-| Bet | Stake | Effective Odds | Max profit if win |
-|---|---|---|---|
-| URU-ESP Match O2.5 | 0.50u | +156 | +0.78u |
-| KDB Goal+Assist | 1.00u | −139 | +0.72u |
-| CPV-KSA Match O2.5 | 0.50u | +110 | +0.55u |
-| Egypt ML (Drawbreaker) | 0.10u | +150 | +0.15u (+ small bonus refund if draw) |
-| France TT O2.5 | 0.50u | +139 | +0.70u |
-| Oyarzabal anytime (bonus bet) | 1.0u bonus | +155 | +1.55u (winnings only) |
-| **Total cash** | **2.60u** | | |
-
 ## Bankroll History
 
 | Date | Starting | Day P/L | Ending | Note |
 |---|---|---|---|---|
 | 2026-06-24 | 100.00u | +3.18u | 103.18u | Day 1, 4 bets, 2-2-0. |
-| 2026-06-25 | 103.18u | −1.18u | 102.00u | Day 2, 6 bets, 1-5-0. Isak +282 WIN (beat close). PAR-AUS 0-0 cluster failed. Drawbreaker refunded 1.0u bonus bet. First CLV data. |
-| 2026-06-26 | 102.00u | TBD (6 open) | TBD | Day 3, 6 bets placed, 2.60u cash + 1.0u bonus bet. Spread across 4 games (no cluster). Belgium TT dropped on line move +124→−178. Egypt ML 0.10u (typo). Both SGP promos expired unused. STANDING RULE applied — EGY-IRN/CPV-KSA theses verified vs 3rd-place table before sizing. |
+| 2026-06-25 | 103.18u | −1.18u | 102.00u | Day 2, 6 bets, 1-5-0. Isak +282 WIN (beat close). PAR-AUS 0-0 cluster failed. First CLV data. |
+| 2026-06-26 | 102.00u | +0.31u | 102.31u | Day 3, 6 bets, 2-4-0. WIN: KDB G/A -139 (+0.72u), France TT O2.5 +139 (+0.70u). LOSS: URU O2.5 (1-0), CPV O2.5 (0-0), Egypt ML (draw, Drawbreaker refunded 0.10u free bet), Oyarzabal bonus bet (no cash). Two must-win games busted 0-0 again. |
 
 ## Notes
-- **Through 2 settled days:** +2.00u cash on 9.0u staked (record 3-7-0). Profit carried by bigger-odds hits (Bosnia +154 2u, Isak +282 1u) over many small losers — expected shape of an upside-hunting system. CLV (−2.16% over 2 bets) is the real read; tiny sample.
-- **Bonus bet deployed:** the Day-2 Drawbreaker refund is now on Oyarzabal +155 (bet 016).
+- **Through 3 days:** +2.31u cash on 11.6u staked, record 5-11-0, ROI +20.0%. Profit entirely carried by larger-odds hits (Bosnia +154, Isak +282) over many small losers — textbook upside-system shape. CLV (−2.16% over 2 measurable bets) remains the only real read and the sample is tiny.
+- **KEY EMERGING LESSON:** mutual must-win games (PAR-AUS, CPV-KSA) are 0-for-2 to the OVER — both 0-0. Stop treating "both must win" as an over signal.
+- **Outstanding:** 0.10u free bet from the EGY-IRN Drawbreaker.
