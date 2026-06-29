@@ -18,7 +18,8 @@
 
 | Asset | Source | Face | Est. EV | Notes |
 |---|---|---|---|---|
-| 0.10u free bet | Drawbreaker on bet 014 (EGY-IRN draw) | 0.10u | ~0.07u | Refund scaled to the 0.10u stake (as predicted). Deploy on a future longer-odds +EV play. |
+| 0.10u free bet | Drawbreaker on bet 014 (EGY-IRN draw) | 0.10u | ~0.07u | Refund scaled to the 0.10u stake. Deploy on a future longer-odds +EV play. |
+| 1.25u free bet | Drawbreaker on bet 017 (DZA-AUT draw) | 1.25u | ~0.88u | Algeria led to the last kick, drew. Refund as bonus bet. Deploy on a longer-odds +EV play. |
 
 ## Settled Bets
 
@@ -36,22 +37,29 @@
 | 010 | 2026-06-25 | PAR–AUS | SGP/PROMO | 3-leg: O2.5+BTTS+Enciso | +910 (base +700 ×30% boost) | ~10–11.5% | 0.50u | **LOSS** | −0.50u | TBD | TBD | 0-0; all legs dead. Flagged at placement as marginal-EV lottery. |
 | 011 | 2026-06-26 | URU–ESP | TOTAL | Match Total Over 2.5 | +156 (base +120 ×30% boost) | ~47–55% | 0.50u | **LOSS** | −0.50u | TBD | TBD | URU-ESP 1-0 — only 1 goal, under. Spain managed; Uruguay didn't generate enough. |
 | 012 | 2026-06-26 | NZL–BEL | PROMO/PROP | De Bruyne Goal+Assist | −139 (base −175 ×25% boost) | ~62–70% | 1.00u | **WIN** | +0.72u | TBD | TBD | KDB G/A cashed. Belgium-dominance thesis worked. Boost converted -175 to -139. |
-| 013 | 2026-06-26 | CPV–KSA | TOTAL | Match Total Over 2.5 | +110 | ~50–58% | 0.50u | **LOSS** | −0.50u | TBD | TBD | CPV-KSA 0-0. SECOND must-win game to bust 0-0 (after PAR-AUS). "Both must win→goals" inference burned again — sized small for exactly this reason. See note. |
-| 014 | 2026-06-26 | EGY–IRN | ML+PROMO | Egypt ML (Drawbreaker) | +150 | ~38% | 0.10u | **LOSS (refunded)** | −0.10u | TBD | TBD | Draw (as the thesis expected). ML loses but Drawbreaker refunded 0.10u free bet (scaled to stake). Typo stake 0.10u vs intended 1.0u. The happy-draw read was CORRECT — just expressed via the one leg (ML) that doesn't cash on a draw; the Drawbreaker is what monetized the correct read. |
-| 015 | 2026-06-26 | NOR–FRA | TOTAL | France Team Total Over 2.5 | +139 | ~40–50% | 0.50u | **WIN** | +0.70u | TBD | TBD | France 3+ vs weakened Norway. Team-level play (immune to attacker toss-up) cashed where the France ML −175 we PASSED would also have won but at worse value/with no edge. |
-| 016 | 2026-06-26 | URU–ESP | PROP | Oyarzabal anytime | +155 | ~43% | BONUS 1.0u | **LOSS** | 0.00u (bonus) | TBD | TBD | No goal. Bonus bet (house money) — zero cash impact. Day-2 Drawbreaker refund fully consumed here. |
+| 013 | 2026-06-26 | CPV–KSA | TOTAL | Match Total Over 2.5 | +110 | ~50–58% | 0.50u | **LOSS** | −0.50u | TBD | TBD | CPV-KSA 0-0. SECOND must-win game to bust 0-0 (after PAR-AUS). "Both must win→goals" inference burned again — sized small for exactly this reason. |
+| 014 | 2026-06-26 | EGY–IRN | ML+PROMO | Egypt ML (Drawbreaker) | +150 | ~38% | 0.10u | **LOSS (refunded)** | −0.10u | TBD | TBD | Draw (as the thesis expected). ML loses but Drawbreaker refunded 0.10u free bet. The happy-draw read was CORRECT — expressed via the one leg (ML) that doesn't cash on a draw. |
+| 015 | 2026-06-26 | NOR–FRA | TOTAL | France Team Total Over 2.5 | +139 | ~40–50% | 0.50u | **WIN** | +0.70u | TBD | TBD | France 3+ vs weakened Norway. Team-level play (immune to attacker toss-up) cashed. |
+| 016 | 2026-06-26 | URU–ESP | PROP | Oyarzabal anytime | +155 | ~43% | BONUS 1.0u | **LOSS** | 0.00u (bonus) | TBD | TBD | No goal. Bonus bet (house money) — zero cash impact. |
+| 017 | 2026-06-27 | DZA–AUT | ML+PROMO | Algeria ML (Drawbreaker) | +295 | ~24% | 1.25u | **LOSS (refunded)** | −1.25u | TBD | TBD | Algeria LED until the last kick; late equalizer → draw. Drawbreaker refunds 1.25u bonus bet. Win-equity/equilibrium thesis correct through 89'; lost to last-minute variance. |
+| 018 | 2026-06-27 | JOR–ARG | TOTAL | Match Under 2.5 | +160 | ~37% | 1.00u | **LOSS** | −1.00u | TBD | TBD | Went OVER. Rotated Argentina still outscored expectation; talent gap > rotation effect. Thesis missed (not pure variance). |
+| 019 | 2026-06-27 | JOR–ARG | PROP/PROMO | Julián Álvarez anytime | +113.6 (base −110 ×25% boost) | ~52% | 1.00u | **LOSS** | −1.00u | TBD | TBD | No goal. Backup-9 thesis didn't cash. |
+| 020 | 2026-06-27 | CRO–GHA | ML/PROMO | Draw | +273 (base +210 ×30% boost) | ~33% | 0.50u | **LOSS** | −0.50u | TBD | TBD | Draw until a LAST-MINUTE Croatia winner. Mutual-content thesis correct through 89'; late variance. |
+| 021 | 2026-06-27 | COL–POR | TOTAL | Match Under 2.5 | +105 | ~46% | 0.50u | **WIN** | +0.525u | TBD | TBD | Under cashed. Cagey controlled-game thesis confirmed. Day's lone winner. |
+| 022 | 2026-06-27 | PAN–ENG | SGP/PROMO | Rashford ATGS + Saka G/A + Match O2.5 | +436 (base +335 ×30% boost) | ~25% | 1.00u | **LOSS** | −1.00u | TBD | TBD | Did not hit. |
+| 023 | 2026-06-27 | JOR–ARG | SGP/PROMO | Match U2.5 + Álvarez ATGS + ARG win | boosted (20%), price not captured | ~20% | 1.00u | **LOSS** | −1.00u | TBD | TBD | Did not hit; correlated with 018/019 — all three died on the over + no Álvarez goal (warned-about clustering). |
 
 ## Running Tallies
 
 | Metric | Value |
 |---|---|
-| Total bets placed | 16 (all settled) |
-| Win / Loss / Push | 5 / 11 / 0 |
-| Units staked (cash) | 11.60u |
-| Net P/L (cash) | +2.31u |
-| ROI on stakes | +20.0% |
-| Outstanding free bets | 0.10u (~0.07u EV) |
-| **Rolling CLV (measurable)** | **−2.16% avg over 2 bets; beat close 1 of 2 (Day-3 closes not captured)** |
+| Total bets placed | 23 (all settled) |
+| Win / Loss / Push | 6 / 17 / 0 |
+| Units staked (cash) | 17.85u |
+| Net P/L (cash) | −2.92u |
+| ROI on stakes | −16.4% |
+| Outstanding free bets | 1.35u (0.10u + 1.25u) (~0.95u EV) |
+| **Rolling CLV (measurable)** | **−2.16% avg over 2 bets; beat close 1 of 2 (Day 3–4 closes not captured)** |
 
 ## Process Notes
 
@@ -64,15 +72,27 @@
 - ERROR: Sweden "must-win" thesis was wrong (built on unverified qualification claim). → STANDING RULE added.
 
 ### Day 3 (2026-06-26)
-- **Green day: 2-4-0, +0.31u cash.** Two winners (KDB G/A, France TT) outweighed four small losers — the upside-system shape (fewer winners, profit from them being priced right) in miniature.
+- **Green day: 2-4-0, +0.31u cash.** Two winners (KDB G/A, France TT) outweighed four small losers.
 - **STANDING RULE applied successfully** — EGY-IRN/CPV-KSA theses verified vs 3rd-place table before sizing.
-- **"Both must win → goals" burned AGAIN:** CPV-KSA 0-0, the second consecutive must-win game to bust under (after PAR-AUS). This is now a PATTERN, not a one-off. Two data points: must-win desperation does NOT reliably produce goals — if anything these games are TIGHT (fear of losing > desire to win). REVISED LESSON: stop treating mutual must-win as an over signal; if anything lean slight UNDER or avoid. Sizing CPV small was right; the better call may have been no bet.
-- **The happy-draw read (EGY-IRN) was CORRECT** — it drew, as the thesis predicted. But we expressed it via Egypt ML (loses on a draw) + Drawbreaker. The Drawbreaker monetized the correct read; the ML leg didn't. Worth noting: a direct DRAW bet would have cashed outright. The Drawbreaker structure was the more conservative expression and it (barely, at 0.10u) paid via refund.
-- **France TT O2.5 cashed; passing the France ML −175 was still correct** — the ML would also have won, but at no edge (priced-in, no urgency). We took the +EV team-total instead of the efficient ML. Right process even though both would've won.
-- **Line-move discipline** (dropped Belgium TT +124→−178) avoided a negative-EV bet. Both SGP promos expired unused (no clean play).
+- **"Both must win → goals" burned AGAIN:** CPV-KSA 0-0, second consecutive must-win game to bust under (after PAR-AUS). PATTERN, not one-off.
+- **France TT O2.5 cashed; passing the France ML −175 was still correct** — took the +EV team-total instead of the efficient ML.
+
+### Day 4 (2026-06-27) — final group matchday
+- **Brutal day: 1-6-0, −5.23u cash.** Worst day of the tournament. Bankroll 102.31u → 97.08u.
+- **Two last-minute beats define the day.** DZA-AUT: Algeria LED until the final kick, conceded → draw (bet 017 ML lost, Drawbreaker refunded 1.25u). CRO-GHA: level until a last-minute Croatia winner (bet 020 draw lost). BOTH theses were correct through 89 minutes and lost to stoppage-time variance. This is what holding the +EV side feels like on the wrong tail — do not over-correct the process off two late goals.
+- **The one thesis that genuinely MISSED: JOR-ARG under (018).** Predicted rotated Argentina = quieter game; it went OVER. LESSON: even a rotated A-list side vs an outmatched, eliminated opponent is NOT a reliable under — talent gap can outweigh the motivation/rotation gap.
+- **SGP clustering warning realized:** bets 018/019/023 all keyed on the same JOR-ARG script (under + Álvarez goal) and died together. The 20% SGP (023) added correlated exposure to legs we already held.
+- **COL-POR U2.5 (021) was the lone winner** — the cagey controlled-game read (happy-draw Colombia + Portugal needs one goal) cashed.
+- CLV not captured again (Days 3–4). The CLV scoreboard is still stuck at 2 measurable bets — the real gap in the process.
 
 ### 🔒 STANDING RULE (2026-06-25)
-**Never base a play on an unverified qualification claim. If a thesis depends on "must win," "already through," "a draw eliminates them," best-third positioning, or any GD/tiebreaker math — VERIFY against actual standings + the live 3rd-place table BEFORE pricing. If the data isn't in hand, ASK THE USER to retrieve it. Directional reads may stay flagged low-confidence; hard qualification claims must be sourced. When uncertain on anything load-bearing, STOP and ASK.**
+**Never base a play on an unverified qualification claim. If a thesis depends on "must win," "already through," "a draw eliminates them," best-third positioning, or any GD/tiebreaker math — VERIFY against actual standings + the live table BEFORE pricing. If the data isn't in hand, ASK. Directional reads may stay flagged low-confidence; hard qualification claims must be sourced.**
 
 ### 🔒 STANDING LESSON (2026-06-26)
-**Mutual must-win games do NOT reliably go over. Two-for-two (PAR-AUS 0-0, CPV-KSA 0-0) busted under. Fear of losing makes these games tight, not open. Do not use "both teams must win" as a totals-OVER signal going forward; treat it as neutral-to-under and require an independent reason for any over.**
+**Mutual must-win games do NOT reliably go over. Two-for-two (PAR-AUS 0-0, CPV-KSA 0-0) busted under. Fear of losing makes these games tight. Treat "both must win" as neutral-to-under and require an independent reason for any over.**
+
+### 🔒 STANDING LESSON (2026-06-27)
+**Rotation/dead-rubber is NOT automatically an under. JOR-ARG went over despite heavy Argentina rotation — a large talent gap can produce goals regardless of motivation. Require the opponent's defense to be a real factor, not just "the favorite is resting," before backing an under on a rotation thesis.**
+
+### 🔒 STANDING LESSON (2026-06-27b)
+**Correlated singles + an overlapping SGP are ONE unit of risk, not several. When an SGP shares legs with bets already in the suite, size the whole correlated cluster as a single position. Day 4 ran ~3u of effectively the same JOR-ARG bet across three tickets.**
