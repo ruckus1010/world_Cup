@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | Starting bankroll | 100.00u |
-| Current bankroll | 102.31u |
-| Net P/L (cash) | +2.31u |
-| ROI | +2.31% (on bankroll); +20.0% (on 11.6u staked) |
+| Current bankroll | 97.08u |
+| Net P/L (cash) | −2.92u |
+| ROI | −2.92% (on bankroll); −16.4% (on 17.85u staked) |
 | Open exposure | 0.00u |
-| Outstanding free bets | 0.10u (~0.07u EV) |
-| Record (W-L-P) | 5-11-0 |
-| Rolling CLV | −2.16% avg (2 measurable bets); beat close 1 of 2 |
-| Last updated | 2026-06-26 |
+| Outstanding free bets | 1.35u (~0.95u EV) |
+| Record (W-L-P) | 6-17-0 |
+| Rolling CLV | −2.16% avg (2 measurable bets); beat close 1 of 2. Days 3–4 closes not captured. |
+| Last updated | 2026-06-27 |
 
 ## Sizing Tiers
 
@@ -32,9 +32,11 @@
 |---|---|---|---|---|
 | 2026-06-24 | 100.00u | +3.18u | 103.18u | Day 1, 4 bets, 2-2-0. |
 | 2026-06-25 | 103.18u | −1.18u | 102.00u | Day 2, 6 bets, 1-5-0. Isak +282 WIN (beat close). PAR-AUS 0-0 cluster failed. First CLV data. |
-| 2026-06-26 | 102.00u | +0.31u | 102.31u | Day 3, 6 bets, 2-4-0. WIN: KDB G/A -139 (+0.72u), France TT O2.5 +139 (+0.70u). LOSS: URU O2.5 (1-0), CPV O2.5 (0-0), Egypt ML (draw, Drawbreaker refunded 0.10u free bet), Oyarzabal bonus bet (no cash). Two must-win games busted 0-0 again. |
+| 2026-06-26 | 102.00u | +0.31u | 102.31u | Day 3, 6 bets, 2-4-0. WIN: KDB G/A -139, France TT O2.5 +139. Two must-win games busted 0-0 again. |
+| 2026-06-27 | 102.31u | −5.23u | 97.08u | Day 4 (final group MD), 7 bets, 1-6-0. WORST DAY. Brutal late beats: DZA-AUT Algeria led to the last kick (draw, Drawbreaker refund 1.25u), CRO-GHA level until a 90'+ Croatia winner. COL-POR U2.5 lone win. JOR-ARG rotation-under thesis MISSED (went over). Both SGPs died in a correlated JOR-ARG cluster. |
 
 ## Notes
-- **Through 3 days:** +2.31u cash on 11.6u staked, record 5-11-0, ROI +20.0%. Profit entirely carried by larger-odds hits (Bosnia +154, Isak +282) over many small losers — textbook upside-system shape. CLV (−2.16% over 2 measurable bets) remains the only real read and the sample is tiny.
-- **KEY EMERGING LESSON:** mutual must-win games (PAR-AUS, CPV-KSA) are 0-for-2 to the OVER — both 0-0. Stop treating "both must win" as an over signal.
-- **Outstanding:** 0.10u free bet from the EGY-IRN Drawbreaker.
+- **Through 4 days:** −2.92u cash on 17.85u staked, record 6-17-0, ROI −16.4%. The Day-4 drawdown (−5.23u) wiped out the small cumulative profit. Two of the six losses were last-kick beats on theses that were correct through 89' — variance, not process — but JOR-ARG was a genuine thesis miss.
+- **KEY EMERGING LESSONS:** (1) mutual must-win ≠ over (pattern holds); (2) rotation/dead-rubber ≠ under when talent gap is large (JOR-ARG went over); (3) correlated singles + overlapping SGP = one unit of risk, size the cluster together.
+- **CLV remains the only real scoreboard and it is barely populated (2 bets).** Capturing closing lines is the single biggest process gap. Prioritize grabbing closes going forward.
+- **Outstanding:** 0.10u + 1.25u free bets (1.35u face, ~0.95u EV). Deploy on longer-odds +EV plays.
