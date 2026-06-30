@@ -18,81 +18,93 @@
 
 | Asset | Source | Face | Est. EV | Notes |
 |---|---|---|---|---|
-| 0.10u free bet | Drawbreaker on bet 014 (EGY-IRN draw) | 0.10u | ~0.07u | Refund scaled to the 0.10u stake. Deploy on a future longer-odds +EV play. |
-| 1.25u free bet | Drawbreaker on bet 017 (DZA-AUT draw) | 1.25u | ~0.88u | Algeria led to the last kick, drew. Refund as bonus bet. Deploy on a longer-odds +EV play. |
+| 0.10u free bet | Drawbreaker on bet 014 (EGY-IRN draw) | 0.10u | ~0.07u | Deploy on a future longer-odds +EV play. |
+| 1.25u free bet | Drawbreaker on bet 017 (DZA-AUT draw) | 1.25u | ~0.88u | Deploy on a longer-odds +EV play. |
 
 ## Settled Bets
 
 | ID | Date | Match | Market | Selection | Odds | Fair % | Stake | Result | Payout (u) | Close | CLV | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 001 | 2026-06-24 | BIH–QAT | TOTAL | Bosnia TT Over 2.5 | +154 | ~48–53% | 2.00u | **WIN** | +3.08u | TBD | TBD | Final 3-1. Chase-for-GD thesis confirmed. |
-| 002 | 2026-06-24 | BIH–QAT | TOTAL | Bosnia −2.5 (win by 3+) | +285 | ~38–43% | 0.50u | **LOSS** | −0.50u | TBD | TBD | Final 3-1 — won by 2. Correlated variance dart. |
-| 003 | 2026-06-24 | SCO–BRA | PROP | Vinicius Jr anytime | +110 | ~50–55% | 1.00u | **WIN** | +1.10u | TBD | TBD | Usage-shift thesis cashed. |
-| 004 | 2026-06-24 | MAR–HTI | PROMO/PROP | Brahim Díaz anytime (live) | +324 | ~28–34% | 0.50u | **LOSS** | −0.50u | n/a | n/a | +EV live dart, modal-outcome loss. |
-| 005 | 2026-06-25 | JPN–SWE | PROMO/PROP | Isak 2+ shots on target | +282 (base +225 ×25% boost) | ~27–32% (revised) | 1.00u | **WIN** | +2.82u | +220 | **+1.56%** | BEAT close. Hit despite corrected/thinner thesis; close (~31%) aligned with revised fair. |
-| 006 | 2026-06-25 | JPN–SWE | TOTAL | Sweden TT Over 1.5 | +230 | ~30–40% (revised) | 1.00u | **LOSS** | −1.00u | TBD | TBD | JPN-SWE 1-1; Sweden scored 1, needed 2. Corrected-down thesis (see error note). |
-| 007 | 2026-06-25 | PAR–AUS | TOTAL | Match Total Over 2.5 | +286 (base +220 ×30% boost) | ~36–44% | 0.50u | **LOSS** | −0.50u | +240 | **−5.88%** | PAR-AUS 0-0. WORSE than close; over drifted out. Negative CLV foreshadowed cagey result. |
-| 008 | 2026-06-25 | PAR–AUS | ML+PROMO | Paraguay ML (Drawbreaker) | +165 | ~36% | 1.00u | **LOSS (refunded)** | −1.00u | TBD | TBD | 0-0 draw → ML loses, Drawbreaker refunded 1.0u bonus bet (deployed on bet 016). |
-| 009 | 2026-06-25 | PAR–AUS | TOTAL | Paraguay TT Over 1.5 | +255 | ~34–45% | 1.00u | **LOSS** | −1.00u | TBD | TBD | 0-0; part of PAR-AUS correlated cluster that failed together. |
-| 010 | 2026-06-25 | PAR–AUS | SGP/PROMO | 3-leg: O2.5+BTTS+Enciso | +910 (base +700 ×30% boost) | ~10–11.5% | 0.50u | **LOSS** | −0.50u | TBD | TBD | 0-0; all legs dead. Flagged at placement as marginal-EV lottery. |
-| 011 | 2026-06-26 | URU–ESP | TOTAL | Match Total Over 2.5 | +156 (base +120 ×30% boost) | ~47–55% | 0.50u | **LOSS** | −0.50u | TBD | TBD | URU-ESP 1-0 — only 1 goal, under. Spain managed; Uruguay didn't generate enough. |
-| 012 | 2026-06-26 | NZL–BEL | PROMO/PROP | De Bruyne Goal+Assist | −139 (base −175 ×25% boost) | ~62–70% | 1.00u | **WIN** | +0.72u | TBD | TBD | KDB G/A cashed. Belgium-dominance thesis worked. Boost converted -175 to -139. |
-| 013 | 2026-06-26 | CPV–KSA | TOTAL | Match Total Over 2.5 | +110 | ~50–58% | 0.50u | **LOSS** | −0.50u | TBD | TBD | CPV-KSA 0-0. SECOND must-win game to bust 0-0 (after PAR-AUS). "Both must win→goals" inference burned again — sized small for exactly this reason. |
-| 014 | 2026-06-26 | EGY–IRN | ML+PROMO | Egypt ML (Drawbreaker) | +150 | ~38% | 0.10u | **LOSS (refunded)** | −0.10u | TBD | TBD | Draw (as the thesis expected). ML loses but Drawbreaker refunded 0.10u free bet. The happy-draw read was CORRECT — expressed via the one leg (ML) that doesn't cash on a draw. |
-| 015 | 2026-06-26 | NOR–FRA | TOTAL | France Team Total Over 2.5 | +139 | ~40–50% | 0.50u | **WIN** | +0.70u | TBD | TBD | France 3+ vs weakened Norway. Team-level play (immune to attacker toss-up) cashed. |
-| 016 | 2026-06-26 | URU–ESP | PROP | Oyarzabal anytime | +155 | ~43% | BONUS 1.0u | **LOSS** | 0.00u (bonus) | TBD | TBD | No goal. Bonus bet (house money) — zero cash impact. |
-| 017 | 2026-06-27 | DZA–AUT | ML+PROMO | Algeria ML (Drawbreaker) | +295 | ~24% | 1.25u | **LOSS (refunded)** | −1.25u | TBD | TBD | Algeria LED until the last kick; late equalizer → draw. Drawbreaker refunds 1.25u bonus bet. Win-equity/equilibrium thesis correct through 89'; lost to last-minute variance. |
-| 018 | 2026-06-27 | JOR–ARG | TOTAL | Match Under 2.5 | +160 | ~37% | 1.00u | **LOSS** | −1.00u | TBD | TBD | Went OVER. Rotated Argentina still outscored expectation; talent gap > rotation effect. Thesis missed (not pure variance). |
-| 019 | 2026-06-27 | JOR–ARG | PROP/PROMO | Julián Álvarez anytime | +113.6 (base −110 ×25% boost) | ~52% | 1.00u | **LOSS** | −1.00u | TBD | TBD | No goal. Backup-9 thesis didn't cash. |
-| 020 | 2026-06-27 | CRO–GHA | ML/PROMO | Draw | +273 (base +210 ×30% boost) | ~33% | 0.50u | **LOSS** | −0.50u | TBD | TBD | Draw until a LAST-MINUTE Croatia winner. Mutual-content thesis correct through 89'; late variance. |
-| 021 | 2026-06-27 | COL–POR | TOTAL | Match Under 2.5 | +105 | ~46% | 0.50u | **WIN** | +0.525u | TBD | TBD | Under cashed. Cagey controlled-game thesis confirmed. Day's lone winner. |
-| 022 | 2026-06-27 | PAN–ENG | SGP/PROMO | Rashford ATGS + Saka G/A + Match O2.5 | +436 (base +335 ×30% boost) | ~25% | 1.00u | **LOSS** | −1.00u | TBD | TBD | Did not hit. |
-| 023 | 2026-06-27 | JOR–ARG | SGP/PROMO | Match U2.5 + Álvarez ATGS + ARG win | boosted (20%), price not captured | ~20% | 1.00u | **LOSS** | −1.00u | TBD | TBD | Did not hit; correlated with 018/019 — all three died on the over + no Álvarez goal (warned-about clustering). |
+| 001 | 2026-06-24 | BIH–QAT | TOTAL | Bosnia TT Over 2.5 | +154 | ~48–53% | 2.00u | WIN | +3.08u | TBD | TBD | Final 3-1. |
+| 002 | 2026-06-24 | BIH–QAT | TOTAL | Bosnia −2.5 | +285 | ~38–43% | 0.50u | LOSS | −0.50u | TBD | TBD | Won by 2. |
+| 003 | 2026-06-24 | SCO–BRA | PROP | Vinicius Jr anytime | +110 | ~50–55% | 1.00u | WIN | +1.10u | TBD | TBD | Usage thesis cashed. |
+| 004 | 2026-06-24 | MAR–HTI | PROMO/PROP | Brahim Díaz anytime (live) | +324 | ~28–34% | 0.50u | LOSS | −0.50u | n/a | n/a | Live dart. |
+| 005 | 2026-06-25 | JPN–SWE | PROMO/PROP | Isak 2+ SoT | +282 | ~27–32% | 1.00u | WIN | +2.82u | +220 | **+1.56%** | BEAT close. |
+| 006 | 2026-06-25 | JPN–SWE | TOTAL | Sweden TT Over 1.5 | +230 | ~30–40% | 1.00u | LOSS | −1.00u | TBD | TBD | 1-1; SWE only 1. |
+| 007 | 2026-06-25 | PAR–AUS | TOTAL | Match Over 2.5 | +286 | ~36–44% | 0.50u | LOSS | −0.50u | +240 | **−5.88%** | 0-0. WORSE than close. |
+| 008 | 2026-06-25 | PAR–AUS | ML+PROMO | Paraguay ML (Drawbreaker) | +165 | ~36% | 1.00u | LOSS (refunded) | −1.00u | TBD | TBD | Drawbreaker 1.0u bonus refunded. |
+| 009 | 2026-06-25 | PAR–AUS | TOTAL | Paraguay TT Over 1.5 | +255 | ~34–45% | 1.00u | LOSS | −1.00u | TBD | TBD | 0-0 cluster. |
+| 010 | 2026-06-25 | PAR–AUS | SGP/PROMO | 3-leg O2.5+BTTS+Enciso | +910 | ~10–11.5% | 0.50u | LOSS | −0.50u | TBD | TBD | 0-0 cluster. |
+| 011 | 2026-06-26 | URU–ESP | TOTAL | Match Over 2.5 | +156 | ~47–55% | 0.50u | LOSS | −0.50u | TBD | TBD | 1-0 final. |
+| 012 | 2026-06-26 | NZL–BEL | PROMO/PROP | De Bruyne G/A | −139 | ~62–70% | 1.00u | WIN | +0.72u | TBD | TBD | BEL dominance cashed. |
+| 013 | 2026-06-26 | CPV–KSA | TOTAL | Match Over 2.5 | +110 | ~50–58% | 0.50u | LOSS | −0.50u | TBD | TBD | 0-0. Second must-win to bust. |
+| 014 | 2026-06-26 | EGY–IRN | ML+PROMO | Egypt ML (Drawbreaker) | +150 | ~38% | 0.10u | LOSS (refunded) | −0.10u | TBD | TBD | Draw → 0.10u bonus refunded. |
+| 015 | 2026-06-26 | NOR–FRA | TOTAL | France TT Over 2.5 | +139 | ~40–50% | 0.50u | WIN | +0.70u | TBD | TBD | France 3+. |
+| 016 | 2026-06-26 | URU–ESP | PROP | Oyarzabal anytime | +155 | ~43% | BONUS 1.0u | LOSS | 0.00u (bonus) | TBD | TBD | Bonus consumed. |
+| 017 | 2026-06-27 | DZA–AUT | ML+PROMO | Algeria ML (Drawbreaker) | +295 | ~24% | 1.25u | LOSS (refunded) | −1.25u | TBD | TBD | Algeria led to last kick → Drawbreaker 1.25u refunded. |
+| 018 | 2026-06-27 | JOR–ARG | TOTAL | Match Under 2.5 | +160 | ~37% | 1.00u | LOSS | −1.00u | TBD | TBD | Went OVER. Rotation-under MISSED. |
+| 019 | 2026-06-27 | JOR–ARG | PROP/PROMO | Álvarez anytime | +113.6 | ~52% | 1.00u | LOSS | −1.00u | TBD | TBD | No goal. |
+| 020 | 2026-06-27 | CRO–GHA | ML/PROMO | Draw | +273 | ~33% | 0.50u | LOSS | −0.50u | TBD | TBD | Draw until 90'+ Croatia winner. |
+| 021 | 2026-06-27 | COL–POR | TOTAL | Match Under 2.5 | +105 | ~46% | 0.50u | WIN | +0.525u | TBD | TBD | Cagey-game under confirmed. |
+| 022 | 2026-06-27 | PAN–ENG | SGP/PROMO | Rashford ATGS + Saka G/A + O2.5 | +436 | ~25% | 1.00u | LOSS | −1.00u | TBD | TBD | Did not hit. |
+| 023 | 2026-06-27 | JOR–ARG | SGP/PROMO | U2.5 + Álvarez + ARG win | (20% boost, price not captured) | ~20% | 1.00u | LOSS | −1.00u | TBD | TBD | Correlated cluster failure. |
+| **024** | **2026-06-29** | **GER–PAR** | **TOTAL** | **Match Under 2.5** | **+110** | **~45%** | **1.50u** | **WIN** | **+1.65u** | **TBD** | **TBD** | **Public-inflated-over thesis CONFIRMED. 97/3 public on GER drove over to −140, left under +110 soft. PAR bunkered, dragged to PKs, won. Cleanest pre-slate edge of the day.** |
+| **025** | **2026-06-29** | **BRA–JPN** | **SGP/PROMO** | **Brazil ML + Over 2.5 + Vinicius G/A 1+** | **+410** (base ~+315 × 30% boost) | **~20%** | **1.00u** | **LOSS** | **−1.00u** | TBD | TBD | Version C of slip. Did not hit. |
+| **026** | **2026-06-29** | **NED–MAR** | **PROP/PROMO** | **Brahim Díaz 2+ total shots (incl ET)** | **−176** (base −220 × 25% boost) | **~66–70%** | **0.50u** | **LOSS** | **−0.50u** | TBD | TBD | Did not hit. |
+| **027** | **2026-06-29** | **NED–MAR** | **SGP/PROMO** | **NED To Qualify + U2.5 + Gakpo G/A 1+** | **+715** (base +550 × 30% boost) | **~13%** | **0.994u** ($9.94) | **LOSS** | **−0.994u** | TBD | TBD | U2.5 + Gakpo legs locked at 90' (1-1, Gakpo scored). Reduced to NED To Qualify live bet. Morocco won PKs → SGP loses. Hedged separately (028). |
+| **028** | **2026-06-29** | **NED–MAR** | **ML (hedge)** | **Morocco To Qualify** | **−105** | **~52% live** (~55–58% true) | **4.151u** ($41.51) | **WIN** | **+3.951u** | TBD | TBD | LIVE HEDGE on bet 027 at end of regulation. Locked +$29.56 either way. Morocco won on PKs. Combined 027+028 net: +2.957u on the game vs −0.994u unhedged. Pure variance reduction with directional logic (stats: MAR 65% poss, 0.65 xG to NED 0.23). |
 
 ## Running Tallies
 
 | Metric | Value |
 |---|---|
-| Total bets placed | 23 (all settled) |
-| Win / Loss / Push | 6 / 17 / 0 |
-| Units staked (cash) | 17.85u |
-| Net P/L (cash) | −2.92u |
-| ROI on stakes | −16.4% |
+| Total bets placed | 28 (all settled) |
+| Win / Loss / Push | 8 / 20 / 0 |
+| Units staked (cash) | 25.99u |
+| Net P/L (cash) | +0.19u |
+| ROI on stakes | +0.73% |
 | Outstanding free bets | 1.35u (0.10u + 1.25u) (~0.95u EV) |
-| **Rolling CLV (measurable)** | **−2.16% avg over 2 bets; beat close 1 of 2 (Day 3–4 closes not captured)** |
+| **Rolling CLV (measurable)** | **−2.16% avg over 2 bets; beat close 1 of 2 (Day 3–5 closes not captured)** |
 
 ## Process Notes
 
 ### Day 1 (2026-06-24)
-- CLV capture FAILED (3 bets permanent TBD). Promo conversion clean. Move faster on lineup-driven plays.
+- CLV capture FAILED (3 bets permanent TBD).
 
 ### Day 2 (2026-06-25)
-- First real CLV data: Isak +1.56% (beat close, won), Match O2.5 −5.88% (worse, lost) — CLV agreed with both outcomes.
-- PAR-AUS correlated cluster failed together on a 0-0 (4 bets). "Desperation→goals" is a weak inference.
-- ERROR: Sweden "must-win" thesis was wrong (built on unverified qualification claim). → STANDING RULE added.
+- First real CLV data. PAR-AUS correlated cluster failed together on 0-0 (4 bets).
+- ERROR: Sweden "must-win" thesis was wrong (unverified qualification claim). → STANDING RULE added.
 
 ### Day 3 (2026-06-26)
-- **Green day: 2-4-0, +0.31u cash.** Two winners (KDB G/A, France TT) outweighed four small losers.
-- **STANDING RULE applied successfully** — EGY-IRN/CPV-KSA theses verified vs 3rd-place table before sizing.
-- **"Both must win → goals" burned AGAIN:** CPV-KSA 0-0, second consecutive must-win game to bust under (after PAR-AUS). PATTERN, not one-off.
-- **France TT O2.5 cashed; passing the France ML −175 was still correct** — took the +EV team-total instead of the efficient ML.
+- Green day: 2-4-0, +0.31u. STANDING RULE applied successfully.
+- "Both must win → goals" burned AGAIN (CPV-KSA 0-0).
 
-### Day 4 (2026-06-27) — final group matchday
-- **Brutal day: 1-6-0, −5.23u cash.** Worst day of the tournament. Bankroll 102.31u → 97.08u.
-- **Two last-minute beats define the day.** DZA-AUT: Algeria LED until the final kick, conceded → draw (bet 017 ML lost, Drawbreaker refunded 1.25u). CRO-GHA: level until a last-minute Croatia winner (bet 020 draw lost). BOTH theses were correct through 89 minutes and lost to stoppage-time variance. This is what holding the +EV side feels like on the wrong tail — do not over-correct the process off two late goals.
-- **The one thesis that genuinely MISSED: JOR-ARG under (018).** Predicted rotated Argentina = quieter game; it went OVER. LESSON: even a rotated A-list side vs an outmatched, eliminated opponent is NOT a reliable under — talent gap can outweigh the motivation/rotation gap.
-- **SGP clustering warning realized:** bets 018/019/023 all keyed on the same JOR-ARG script (under + Álvarez goal) and died together. The 20% SGP (023) added correlated exposure to legs we already held.
-- **COL-POR U2.5 (021) was the lone winner** — the cagey controlled-game read (happy-draw Colombia + Portugal needs one goal) cashed.
-- CLV not captured again (Days 3–4). The CLV scoreboard is still stuck at 2 measurable bets — the real gap in the process.
+### Day 4 (2026-06-27)
+- Worst day: 1-6-0, −5.23u. Two last-kick beats (DZA-AUT, CRO-GHA) on correct theses. JOR-ARG rotation-under genuinely missed.
+- SGP clustering warning realized in JOR-ARG cluster.
+
+### Day 5 (2026-06-29) — R32, first knockout slate
+- **+3.11u day, back above 100u starting bankroll for first time since Day 3.** Two wins (GER-PAR Under, MAR hedge) outweighed three losses (Brazil SGP, Diaz shots, NED SGP).
+- **GER-PAR Under +110 (bet 024) was the cleanest pre-slate edge identified all tournament** — public-inflated favorite + bunker-script underdog created standalone +EV on the under. Paraguay played exactly to script: parked the bus, took it to PKs. THESIS CONFIRMED. Pattern (NEW STANDING LESSON): heavy-public-favorite vs defensive-dog at high totals systematically softens the under.
+- **NED-MAR live hedge (bet 028) is a process highlight, not a hero call.** Once Under 2.5 + Gakpo G/A were effectively locked at 90', the SGP reduced to "NED To Qualify" with Morocco *favored* live at −105 — a flip from pregame +120. Hedge locked +$29.56 either way and directionally agreed with the in-match dominance signal (MAR 65% poss, 2.8x xG, +4 SoT). Converted what would have been −0.994u into +2.957u on the game. Worth keeping the "lock the structurally-equivalent profit when the live price has materially flipped" pattern as a standing tool.
+- **CRITICAL FRAMING — record vs cash divergence.** Day 5 W-L was 2-3, cash was +3.11u. The "loss" on bet 027 was structurally a profit-lock paired with bet 028. The W-L ledger is a misleading scoreboard when SGPs are combined with deliberate hedges. We're 8-20 W-L but +0.19u cash — variance has been mostly against us, hit rate consistent with edge but win-rate-of-record looks worse than the bottom line.
+- Brazil SGP and Diaz shots: small−EV losses that are part of the cost of doing business. No process flaw, no thesis miss worth flagging.
+- CLV STILL not captured (Days 3–5). The single biggest unresolved process gap.
 
 ### 🔒 STANDING RULE (2026-06-25)
-**Never base a play on an unverified qualification claim. If a thesis depends on "must win," "already through," "a draw eliminates them," best-third positioning, or any GD/tiebreaker math — VERIFY against actual standings + the live table BEFORE pricing. If the data isn't in hand, ASK. Directional reads may stay flagged low-confidence; hard qualification claims must be sourced.**
+**Never base a play on an unverified qualification claim. VERIFY against actual standings + live table BEFORE pricing.**
 
 ### 🔒 STANDING LESSON (2026-06-26)
-**Mutual must-win games do NOT reliably go over. Two-for-two (PAR-AUS 0-0, CPV-KSA 0-0) busted under. Fear of losing makes these games tight. Treat "both must win" as neutral-to-under and require an independent reason for any over.**
+**Mutual must-win games do NOT reliably go over.** Two-for-two busted under.
 
 ### 🔒 STANDING LESSON (2026-06-27)
-**Rotation/dead-rubber is NOT automatically an under. JOR-ARG went over despite heavy Argentina rotation — a large talent gap can produce goals regardless of motivation. Require the opponent's defense to be a real factor, not just "the favorite is resting," before backing an under on a rotation thesis.**
+**Rotation/dead-rubber is NOT automatically an under.** JOR-ARG went over despite heavy ARG rotation; talent gap > rotation effect.
 
 ### 🔒 STANDING LESSON (2026-06-27b)
-**Correlated singles + an overlapping SGP are ONE unit of risk, not several. When an SGP shares legs with bets already in the suite, size the whole correlated cluster as a single position. Day 4 ran ~3u of effectively the same JOR-ARG bet across three tickets.**
+**Correlated singles + overlapping SGP are ONE unit of risk, not several.** Size the cluster as a single position.
+
+### 🔒 STANDING LESSON (2026-06-29) — NEW
+**Heavy public action on a favorite + high posted total systematically softens the UNDER, especially in knockouts where the dog's modal game plan is bunker→PKs.** GER-PAR Under +110 confirmed the pattern. Recreational fav+over parlays inflate the over and leave the under priced for sharps. Look for this spot specifically: ≥80% public on fav + total at or above 2.5 + defensive-dog matchup = under is the +EV side.
+
+### 🔒 STANDING LESSON (2026-06-29b) — NEW
+**Late-in-the-game SGP hedging is a real tool when the live line has flipped vs pregame.** If the SGP's remaining-risk leg has a market price that disagrees materially with the pregame number AND the in-match data supports the flip, the hedge isn't "locking a loss" — it's monetizing a price move on the only live leg. The NED-MAR hedge converted −0.994u into +2.957u on a coherent read (Morocco dominated through 90', live price reflected it, hedge captured it). Use this when: (1) most SGP legs are effectively settled, (2) the live line on the unsettled leg has moved materially from pregame, (3) underlying match stats support the line move.
